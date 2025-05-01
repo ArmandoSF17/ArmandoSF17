@@ -24,7 +24,7 @@ Skills: HTML, CSS, JavaScript
 - [Email](mailto:armandosleimil@gmail.com)
 
 ### 🎯 Goals
-- Continue improving and strengthening skills
+- Level up my skills by working on real-world projects
 - Contribute to open source
 - Build small projects to apply what I learn
 - Land my first front-end developer role
